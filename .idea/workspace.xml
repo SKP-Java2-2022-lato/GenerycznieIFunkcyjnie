@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="008a26f9-c8ee-42c5-8683-641356f28d65" name="Changes" comment="Klasy anonimowe">
-      <change afterPath="$PROJECT_DIR$/src/generycznie/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generycznie/AppleBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generycznie/BoxOnSteroids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generycznie/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generycznie/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generycznie/FigureBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generycznie/FruitBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generycznie/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generycznie/OrangeBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generycznie/Pair.java" afterDir="false" />
+    <list default="true" id="008a26f9-c8ee-42c5-8683-641356f28d65" name="Changes" comment="Programowanie generyczne">
+      <change afterPath="$PROJECT_DIR$/src/lambda/Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -56,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669454203980</updated>
-      <workItem from="1669454205406" duration="2595000" />
+      <workItem from="1669454205406" duration="8141000" />
     </task>
     <task id="LOCAL-00001" summary="Klasy anonimowe">
       <created>1669454757592</created>
@@ -65,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669454757592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Programowanie generyczne">
+      <created>1669456831533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669456831533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Klasy anonimowe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klasy anonimowe" />
+    <MESSAGE value="Programowanie generyczne" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programowanie generyczne" />
   </component>
 </project>
